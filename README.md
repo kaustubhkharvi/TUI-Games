@@ -43,10 +43,15 @@ Welcome to the **TUI-Based Games** repository! 🚀 Dive into the fun with two c
    ```bash
    cd TUI-Games
    ```
-3. Launch the game menu:  
+3. Launch the game menu:
+  - For Windows 
    ```bash
    python main.py
    ```
+ - For Windows 
+  ```bash
+  python3 main.py
+  ```
 
 ## 🎯 How to Play
 1. Start the fun by running `python main.py`. 🎉  
