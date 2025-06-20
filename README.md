@@ -61,6 +61,9 @@ Welcome to the **TUI-Based Games** repository! 🚀 Dive into the fun with two c
    - **Snake & Ladder**: Hit Enter to roll the dice and move! 🎲  
 4. Have a blast and replay to your heart's content! 😄
 
+## Why a TUI-Based Game?
+ - I chose to created this game to offer a lightweight, accessible, and nostalgic gaming experience for the users that runs directly in the terminal. This approach ensures the game is fun, functional, and widely    accessible, while providing a unique, retro-inspired experience for players.
+
 ## 🤝 Contributing
 We’d love your help to make this project even better! 🌟  
 To contribute:  
